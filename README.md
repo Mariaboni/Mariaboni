@@ -12,7 +12,6 @@ I'm Maria, a developer and student who recently got immersed in the world of ful
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://reactnative.dev/docs/getting-started" target="_blank" > <img src="https://imgs.search.brave.com/6JKBNocqeGZNecDy_Mwm9bjeMh_AgUF3Qi_6YBOts7U/rs:fit:1200:1043:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2E3L1Jl/YWN0LWljb24uc3Zn/LzEyMDBweC1SZWFj/dC1pY29uLnN2Zy5w/bmc"  width=55" height="48"/> </a> 
     
