@@ -4,7 +4,7 @@ I'm Maria, a developer and student who recently got immersed in the world of ful
 
 ##
 
-<p><strong>💻 Languages, Frameworks and Tools </strong></p>
+<p><strong>💻 Languages, Frameworks and Tools</strong></p>
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
