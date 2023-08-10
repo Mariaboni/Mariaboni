@@ -8,7 +8,7 @@ I'm Maria, a developer and student who recently got immersed in the world of ful
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
-    <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://imgs.search.brave.com/wfLx7ZxOhR_1xScSDoA0W6J7yY5Pihj9_vS9uAkyfN4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1QvdHlwZXNj/cmlwdC1sb2dvLUIy/OUEzRjQ2MkQtc2Vl/a2xvZ28uY29tLnBu/Zw"  width="48" height="48"/> </a> 
+   <!-- <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://imgs.search.brave.com/wfLx7ZxOhR_1xScSDoA0W6J7yY5Pihj9_vS9uAkyfN4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1QvdHlwZXNj/cmlwdC1sb2dvLUIy/OUEzRjQ2MkQtc2Vl/a2xvZ28uY29tLnBu/Zw"  width="48" height="48"/> </a> -->
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
@@ -20,7 +20,7 @@ I'm Maria, a developer and student who recently got immersed in the world of ful
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=00618B" />
-    <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=0090E1" />
+    <!--<img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=0090E1" />-->
     <br />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=FF8C00" />
