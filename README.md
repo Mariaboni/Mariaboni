@@ -1,4 +1,5 @@
-### Hello there, welcome to my GitHub Page! 😸
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;)](https://git.io/typing-svg)
+
 I'm Maria, a developer and student who recently got immersed in the world of fullstack development
 
 
@@ -14,7 +15,11 @@ I'm Maria, a developer and student who recently got immersed in the world of ful
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <!--<a href="https://reactnative.dev/docs/getting-started" target="_blank" > <img src="https://imgs.search.brave.com/6JKBNocqeGZNecDy_Mwm9bjeMh_AgUF3Qi_6YBOts7U/rs:fit:1200:1043:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2E3L1Jl/YWN0LWljb24uc3Zn/LzEyMDBweC1SZWFj/dC1pY29uLnN2Zy5w/bmc"  width=55" height="48"/> </a> -->
-    
+    <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mariaboni&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria's Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaboni&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
   ##
    <a href="https://github.com/Mariaboni">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
